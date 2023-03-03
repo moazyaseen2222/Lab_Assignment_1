@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "545255376348",
+    "project_id": "labass1-68244",
+    "storage_bucket": "labass1-68244.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545255376348:android:2e590df02cf2fce59abb19",
+        "android_client_info": {
+          "package_name": "com.example.lab_ass1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545255376348-2j8b984teb81t4he3t91g5g5a5b3ev0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIe7fSm4c485rTkMi_DRVA0s4Z9BrzmPQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545255376348-2j8b984teb81t4he3t91g5g5a5b3ev0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
